@@ -64,7 +64,7 @@ Dev Dependencies used:
 - mocha
 - supertest
 
-## Aditional Features
+## Additional Features
 
 - The server uses socket.io on top of express in order to provide immediate updates to all on-line users on modified products properties, such as changes in price, stocks refills or even products removed from store.
 - A logger has been implemented with pino library in order to keep a register of every api error and all the routes that are not implemented.
