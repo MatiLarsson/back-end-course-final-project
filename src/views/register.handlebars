@@ -1,0 +1,79 @@
+<div style="min-height: 100vh;" class="d-flex flex-column">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-2">
+    <a class="navbar-brand px-2" href="/">Beer Store</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav mr-auto text-secondary">
+        <li class="nav-item active">
+          <a class="nav-link" href="/register">Register</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <main class="container flex-grow-1 mt-4">
+    <form id="registerForm">
+      <div class="form-group my-2">
+        <label for="name">Name and Surname</label>
+        <input type="text" class="form-control" id="name" placeholder="Enter name and surname" name="name" required>
+      </div>
+      <div class="form-group my-2">
+        <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="email" required>
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+      </div>
+      <div class="form-group my-2">
+        <label for="adress">Address</label>
+        <input type="text" class="form-control" id="address" placeholder="Enter shipping address" name="address" required>
+        <small id="addressHelp" class="form-text text-muted">This address will be used for shipping your purchased products</small>
+      </div>
+      <div class="form-group my-2">
+        <label for="adress">Age</label>
+        <input type="number" class="form-control" id="age" placeholder="Enter your age" name="age" required>
+        <small id="ageHelp" class="form-text text-muted">You must be at least 18 years old to register</small>
+      </div>
+      <div class="form-group my-2">
+        <label for="phone">Watsapp</label>
+        <input type="number" class="form-control" id="phone" placeholder="+5491159999999" name="phone" required>
+        <small id="phoneHelp" class="form-text text-muted">Please provide a phone number with country code and watsapp compatible format</small>
+      </div>
+      <div class="form-group d-flex flex-column my-5">
+        <p>Choose your avatar</p>
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <img class="avatar selected-avatar" src="images/avatar1.jpg" id="avatar1">
+          <img class="avatar" src="images/avatar2.jpg" id="avatar2">
+          <img class="avatar" src="images/avatar3.jpg" id="avatar3">
+          <img class="avatar" src="images/avatar4.jpg" id="avatar4">
+          <img class="avatar" src="images/avatar5.jpg" id="avatar5">
+          <img class="avatar" src="images/avatar6.jpg" id="avatar6">
+        </div>
+      </div>
+      <div class="form-group my-2">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="password" placeholder="Password" name="password" required>
+      </div>
+      <div class="form-group my-2">
+        <label for="password-verification">Retype Password</label>
+        <input form="nosubmit" type="password" class="form-control" id="password-verification" placeholder="Password" name="password-verification" required>
+      </div>
+      <div class="form-group my-2">
+        <input class="form-check-input" type="checkbox" value="" id="adminCheckbox">
+        <label class="form-check-label" for="flexCheckDefault">
+          Register as an Admin user
+        </label>
+      </div>
+      <button type="submit" class="btn btn-primary my-3">Submit</button>
+    </form>
+    <a href="/login">
+      <button class="btn btn-success">
+        Go to Login
+      </button>
+    </a>
+  </main>
+  <footer class="container-fluid d-flex justify-content-center mt-4">
+    <p>Matias Larsson © 2022 Todos los derechos reservados</p>
+  </footer>
+</div>
+<script src="/js/register.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>

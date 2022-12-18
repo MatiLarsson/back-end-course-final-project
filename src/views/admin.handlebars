@@ -1,0 +1,110 @@
+<div style="min-height: 100vh;" class="d-flex flex-column">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-2">
+    <a class="navbar-brand px-2" href="#">Beer Store</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav mr-auto text-secondary">
+        <li class="nav-item active d-lg-flex align-items-lg-center">
+          <span>Admin control panel</span>
+        </li>
+      </ul>
+      <span class="navbar-text d-flex flex-column flex-lg-row align-items-lg-center gap-2">
+        <span class="px-lg-2">User: {{user.name}}</span>
+        {{#if user.email}}
+          <span class="px-lg-2">Email: {{user.email}}</span>
+        {{/if}}
+        {{#if user.avatar}}
+          <img class="nav-avatar" src="{{user.avatar}}">
+        {{/if}}
+        <a href="/api/sessions/logout" class="px-lg-2"><button class="btn btn-warning btn-sm">Logout</button></a>
+      </span>
+    </div>
+  </nav>
+  <main class="container flex-grow-1 mt-4">
+  <section>
+    <div class="container-lg d-flex flex-column align-items-center">
+      <div class="d-flex flex-column align-items-center">
+        <h2>LOAD NEW PRODUCT</h2>
+        <form id="newProductForm">
+          <div class="mb-3">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" name="name" required>
+          </div>
+          <div class="mb-3">
+            <label for="description" class="form-label">Description</label>
+            <input type="text" class="form-control" id="description" name="description" required>
+          </div>
+          <div class="mb-3">
+            <label for="price" class="form-label">Price</label>
+            <input type="number" class="form-control" id="price" name="price" required>
+          </div>
+          <div class="mb-3">
+            <label for="stock" class="form-label">Stock</label>
+            <input type="number" class="form-control" id="stock" name="stock" required>
+          </div>
+          <div class="mb-3">
+            <input type="file" class="form-control" id="file" name="file">
+          </div>
+          <button type="submit" class="btn btn-success">Add Product</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  <section class="mt-4">
+    <div class="container-lg d-flex flex-column align-items-center">
+      <div class="d-flex flex-column align-items-center">
+        <h2>EDIT EXISTING PRODUCT</h2>
+        <form id="updateProductForm">
+          <div class="mb-3">
+            <label for="code" class="form-label">Code [Mandatory]</label>
+            <input required type="text" class="form-control" id="code" name="code">
+          </div>
+          <div class="mb-3">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="updateName" name="name">
+          </div>
+          <div class="mb-3">
+            <label for="description" class="form-label">Description</label>
+            <input type="text" class="form-control" id="updateDescription" name="description">
+          </div>
+          <div class="mb-3">
+            <label for="price" class="form-label">Price</label>
+            <input type="number" class="form-control" id="updatePrice" name="price">
+          </div>
+          <div class="mb-3">
+            <label for="stock" class="form-label">Stock</label>
+            <input type="number" class="form-control" id="updateStock" name="stock">
+          </div>
+          <div class="mb-3">
+            <input type="file" class="form-control" id="updateFile" name="file">
+          </div>
+          <button type="submit" class="btn btn-success">Update Product</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  <section class="mt-4">
+    <div id="productListContainer" class="container-lg d-flex flex-wrap justify-content-center gap-4"></div>
+  </section>
+  <section class="mt-4">
+    <div class="container-lg d-flex flex-column align-items-center">
+      <h2 class="my-2">Store Chat</h2>
+      <div style="height: 500px;" class="border border-3 border-secondary rounded container-sm d-flex flex-column justify-content-end align-items-center">
+        <div style="height: 400px; overflow-y: auto;" class="w-75 d-flex flex-column justify-content-end align-items-start" id="log"></div>
+        <input class="m-2 w-100 h-25 border border-3 border-primary rounded align-self-center" id="chatBox">
+      </div>
+    </div>
+  </section>
+  </main>
+  <footer class="container-fluid d-flex justify-content-center mt-4">
+    <p>Matias Larsson © 2022 Todos los derechos reservados</p>
+  </footer>
+</div>
+
+<!-- Link a Normalizr cdn -->
+<script src="https://cdn.jsdelivr.net/npm/normalizr@3.6.1/dist/normalizr.browser.min.js"></script>
+<script defer src="js/admin.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/socket.io/socket.io.js"></script>

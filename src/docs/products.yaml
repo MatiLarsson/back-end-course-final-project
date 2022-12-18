@@ -1,0 +1,68 @@
+components:
+  schemas:
+    Products:
+      type: object
+      properties:
+        _id:
+          type: ObjectId
+          example: 634cc4db3fc90e5b318ce2ac
+        timestamp:
+          type: int64
+          example: 1668872779908
+        name:
+          type: string
+          example: Imperial
+        description:
+          type: string
+          example: Blonde beer
+        code:
+          type: string
+          example: oh4f6v2jtw
+        thumbnail:
+          type: string
+          example: 1665975515614-1658622446288-imperial.jpg
+        price:
+          type: int64
+          example: 505
+        stock:
+          type: int64
+          example: 101
+
+paths:
+  /api/products:
+    get:
+      summary: Returns a list with all the products in store.
+      responses:
+        '200':
+          description: A JSON array of objects containing each product information.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Products'
+        '500':
+          description: Error while getting products from database
+  /api/products/?code={code}:
+    get:
+      summary: Returns a product by code
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: Product code from store.
+          example: oh4f6v2jtw
+          schema:
+            type: string
+            minimum: 10
+      responses:
+        '200':
+          description: a JSON array containing a single object with the requested product information.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Products'
+        '400':
+          description: Product not found in database

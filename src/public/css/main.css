@@ -1,0 +1,74 @@
+.card {
+  width: 250px;
+  height: 320px;
+  box-shadow: 0 1.5px 1.5px 0 rgb(0 0 0 / 10%);
+}
+.card.card-admin {
+  height: 400px;
+}
+.card img {
+  height: 100px;
+  object-fit: contain;
+}
+.card.card-admin p {
+  font-size: .8rem;
+}
+.card-button {
+  font-size: .8rem;
+  width: 45%;
+}
+.hidden-product-code {
+  display: none;
+}
+.detail-image {
+  height: 300px;
+}
+.avatar {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  box-shadow: 0 1.5px 1.5px 0 rgb(0 0 0 / 30%);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.avatar:hover {
+  transform: scale(1.05);
+  box-shadow: 0 1.5px 1.5px 0 rgb(0 0 0 / 50%);
+}
+.selected-avatar {
+  border: 3px solid rgb(71, 36, 246);
+  box-shadow: 0 1.5px 1.5px 0 rgb(71 36 246 / 30%);
+}
+.nav-avatar {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+th, td {
+  padding: 10px;
+}
+.quantity-control {
+  cursor: pointer;
+}
+.quantity-control:hover {
+  filter: invert(80%);
+}
+.cart-product-img-container {
+  width: 50px;
+}
+.cart-product-img {
+  height: 40px;
+}
+.trash {
+  cursor: pointer;
+}
+.trash:hover {
+  filter: invert(80%);
+}
+#confirm-order-button, #empty-cart-button {
+  width: 160px;
+}

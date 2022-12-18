@@ -1,0 +1,369 @@
+{"level":40,"time":1666126384765,"pid":16712,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Oct 18 2022 17:53:04 GMT-0300 (hora estándar de Argentina) GET /rutanoimplementada"}
+{"level":40,"time":1666566692123,"pid":34048,"hostname":"LAPTOP-LNG7Q586","msg":"Sun Oct 23 2022 20:11:32 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667086970468,"pid":15220,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Oct 29 2022 20:42:50 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667137567619,"pid":13144,"hostname":"LAPTOP-LNG7Q586","msg":"Sun Oct 30 2022 10:46:07 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667138124035,"pid":13144,"hostname":"LAPTOP-LNG7Q586","msg":"Sun Oct 30 2022 10:55:24 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667262015220,"pid":29132,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Oct 31 2022 21:20:15 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667330042498,"pid":20136,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 01 2022 16:14:02 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667418502165,"pid":25736,"hostname":"LAPTOP-LNG7Q586","msg":"Wed Nov 02 2022 16:48:22 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667427499180,"pid":29344,"hostname":"LAPTOP-LNG7Q586","msg":"Wed Nov 02 2022 19:18:19 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667491469504,"pid":25032,"hostname":"LAPTOP-LNG7Q586","msg":"Thu Nov 03 2022 13:04:29 GMT-0300 (hora estándar de Argentina) POST /api/carts/products/confirm"}
+{"level":40,"time":1667500959670,"pid":19184,"hostname":"LAPTOP-LNG7Q586","msg":"Thu Nov 03 2022 15:42:39 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667870766468,"pid":17740,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:26:06 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":50,"time":1667872664331,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:57:44 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872664331,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:57:44 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872669143,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:57:49 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872669144,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:57:49 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872673121,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:57:53 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872673121,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:57:53 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872686133,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:58:06 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872686133,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:58:06 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872700285,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:58:20 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872700286,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:58:20 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872704504,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:58:24 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872704504,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:58:24 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872775726,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:59:35 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872775726,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:59:35 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872782370,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:59:42 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872782370,"pid":5768,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 22:59:42 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872829766,"pid":19820,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:00:29 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872829767,"pid":19820,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:00:29 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872831546,"pid":19820,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:00:31 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872831546,"pid":19820,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:00:31 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872834207,"pid":19820,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:00:34 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872834207,"pid":19820,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:00:34 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872923981,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:03 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872923982,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:03 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872925970,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:05 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872925970,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:05 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872928019,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:08 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872928019,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:08 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667872932347,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:12 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667872932347,"pid":29220,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:02:12 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873237341,"pid":24944,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:07:17 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873237342,"pid":24944,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:07:17 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873237874,"pid":24944,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:07:17 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873237874,"pid":24944,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:07:17 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873239800,"pid":24944,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:07:19 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873239800,"pid":24944,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:07:19 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873284734,"pid":33112,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:08:04 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873284735,"pid":33112,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:08:04 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873286325,"pid":33112,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:08:06 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873286325,"pid":33112,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:08:06 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873415864,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:15 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873415865,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:15 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873418860,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:18 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873418860,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:18 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873420505,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:20 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873420505,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:20 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667873430402,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:30 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873430402,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:30 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667873434012,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:34 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873434012,"pid":19576,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:34 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667873459584,"pid":4524,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:59 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873459585,"pid":4524,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:10:59 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873464557,"pid":4524,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:04 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873464557,"pid":4524,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:04 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873466049,"pid":4524,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:06 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873466050,"pid":4524,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:06 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873475118,"pid":30480,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:15 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873475119,"pid":30480,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:15 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873480906,"pid":30480,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:20 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873480906,"pid":30480,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:20 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667873503477,"pid":23492,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:43 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873503478,"pid":23492,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:43 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873504978,"pid":23492,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:44 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873504978,"pid":23492,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:11:44 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873549327,"pid":21936,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:29 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873549328,"pid":21936,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:29 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873552090,"pid":21936,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:32 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873552090,"pid":21936,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:32 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873553797,"pid":21936,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:33 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873553798,"pid":21936,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:33 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873571052,"pid":25428,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:51 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873571053,"pid":25428,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:51 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873572279,"pid":25428,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:52 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873572279,"pid":25428,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:52 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873573662,"pid":25428,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:53 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873573663,"pid":25428,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:12:53 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873681382,"pid":28948,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:14:41 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873681382,"pid":28948,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:14:41 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873681722,"pid":28948,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:14:41 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873681723,"pid":28948,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:14:41 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873683552,"pid":28948,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:14:43 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873683552,"pid":28948,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:14:43 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667873888102,"pid":32464,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:08 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873888103,"pid":32464,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:08 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873890116,"pid":32464,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:10 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873890117,"pid":32464,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:10 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667873913862,"pid":22684,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:33 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873913863,"pid":22684,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:33 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873924199,"pid":19152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:44 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667873924200,"pid":19152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:44 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667873925530,"pid":19152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:45 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":40,"time":1667873925531,"pid":19152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:18:45 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667874037111,"pid":7152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:20:37 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874037112,"pid":7152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:20:37 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874039253,"pid":7152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:20:39 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874039253,"pid":7152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:20:39 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874040714,"pid":7152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:20:40 GMT-0300 (hora estándar de Argentina) POST /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874040714,"pid":7152,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:20:40 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667874070880,"pid":17364,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:10 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874070880,"pid":17364,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:10 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874072146,"pid":17364,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:12 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874072146,"pid":17364,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:12 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874073604,"pid":17364,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:13 GMT-0300 (hora estándar de Argentina) POST /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874073605,"pid":17364,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:13 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667874111792,"pid":29772,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:51 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874111793,"pid":29772,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:51 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874113207,"pid":29772,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:53 GMT-0300 (hora estándar de Argentina) POST /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874113207,"pid":29772,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:21:53 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667874144127,"pid":31120,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:22:24 GMT-0300 (hora estándar de Argentina) GET /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874144127,"pid":31120,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:22:24 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874144972,"pid":31120,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:22:24 GMT-0300 (hora estándar de Argentina) POST /products SyntaxError: Unexpected token u in JSON at position 0"}
+{"level":40,"time":1667874144972,"pid":31120,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:22:24 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":40,"time":1667874307713,"pid":29116,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:25:07 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874387803,"pid":1332,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:26:27 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874401142,"pid":1332,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:26:41 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874402235,"pid":1332,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:26:42 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874403233,"pid":1332,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:26:43 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874528689,"pid":6096,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:28:48 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874538095,"pid":6096,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:28:58 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874545049,"pid":6096,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:29:05 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874546935,"pid":6096,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:29:06 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":50,"time":1667874864761,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:24 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'find')"}
+{"level":40,"time":1667874864762,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:24 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667874869997,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:29 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667874869997,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:29 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667874877178,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:37 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'find')"}
+{"level":40,"time":1667874877178,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:37 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667874881443,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:41 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'find')"}
+{"level":40,"time":1667874881443,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:41 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":50,"time":1667874882323,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:42 GMT-0300 (hora estándar de Argentina) POST /products TypeError: Cannot read properties of undefined (reading 'find')"}
+{"level":40,"time":1667874882323,"pid":33316,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:42 GMT-0300 (hora estándar de Argentina) POST /api/carts/products"}
+{"level":40,"time":1667874899979,"pid":17484,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:34:59 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667874913814,"pid":17484,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:35:13 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":50,"time":1667874920603,"pid":17484,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:35:20 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667874920604,"pid":17484,"hostname":"LAPTOP-LNG7Q586","msg":"Mon Nov 07 2022 23:35:20 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":40,"time":1667950095207,"pid":17676,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:28:15 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":40,"time":1667950101816,"pid":17676,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:28:21 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950137485,"pid":17676,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:28:57 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950146531,"pid":17676,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:29:06 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950207480,"pid":32604,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:30:07 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950279761,"pid":17728,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:31:19 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950280993,"pid":17728,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:31:20 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":50,"time":1667950380287,"pid":17728,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:33:00 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667950380287,"pid":17728,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:33:00 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":40,"time":1667950529091,"pid":17728,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:35:29 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950596002,"pid":25176,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:36:36 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950648357,"pid":9308,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:37:28 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950766574,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:39:26 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950799164,"pid":14060,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:39:59 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950828127,"pid":14060,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:40:28 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950860102,"pid":12372,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:41:00 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950873946,"pid":12372,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:41:13 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950909089,"pid":13612,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:41:49 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950917558,"pid":13612,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:41:57 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950975212,"pid":32648,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:42:55 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667950982352,"pid":32648,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:43:02 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951025565,"pid":14356,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:43:45 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951029031,"pid":14356,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:43:49 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951038667,"pid":14356,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:43:58 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951054090,"pid":14356,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:44:14 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951094476,"pid":26220,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:44:54 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951101280,"pid":26220,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:45:01 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951106473,"pid":26220,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:45:06 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951369690,"pid":11576,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:49:29 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951392042,"pid":15356,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:49:52 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":40,"time":1667951413960,"pid":9484,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:50:13 GMT-0300 (hora estándar de Argentina) GET /images/undefined"}
+{"level":50,"time":1667951817254,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:56:57 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951817255,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:56:57 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667951819608,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:56:59 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951819609,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:56:59 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667951821843,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:01 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951821843,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:01 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667951823798,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:03 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951823799,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:03 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667951824786,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:04 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951824786,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:04 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667951828144,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:08 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951828145,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:08 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667951829731,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:09 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951829731,"pid":17120,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:57:09 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667951893824,"pid":14944,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:58:13 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667951893824,"pid":14944,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 20:58:13 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667952177013,"pid":13600,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 21:02:57 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667952177014,"pid":13600,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 21:02:57 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667952519140,"pid":29296,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 21:08:39 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667952519140,"pid":29296,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 21:08:39 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667955526695,"pid":22856,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 21:58:46 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1667955526697,"pid":22856,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 21:58:46 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1667955645788,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:00:45 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955645789,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:00:45 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955695189,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:01:35 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955695189,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:01:35 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955735956,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:02:15 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955735956,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:02:15 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955793619,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:03:13 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955793620,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:03:13 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955841131,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:04:01 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955841131,"pid":15520,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:04:01 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955870034,"pid":8332,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:04:30 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955870035,"pid":8332,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:04:30 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955958117,"pid":3964,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:05:58 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955958117,"pid":3964,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:05:58 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955964217,"pid":3964,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:06:04 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955964217,"pid":3964,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:06:04 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667955969342,"pid":3964,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:06:09 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667955969342,"pid":3964,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:06:09 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667956313633,"pid":29584,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:11:53 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956313634,"pid":29584,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:11:53 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956316563,"pid":29584,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:11:56 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956316563,"pid":29584,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:11:56 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956369719,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:49 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956369719,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:49 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956371579,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:51 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956371579,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:51 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956373953,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:53 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956373954,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:53 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956375753,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:55 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956375754,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:55 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956378221,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:58 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956378222,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:12:58 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956380236,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:00 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956380236,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:00 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956382168,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:02 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956382168,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:02 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956383667,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:03 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956383667,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:03 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956386937,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:06 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956386937,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:06 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956389225,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:09 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956389225,"pid":20092,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:13:09 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667956490914,"pid":27488,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:14:50 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956490914,"pid":27488,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:14:50 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956493490,"pid":27488,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:14:53 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956493490,"pid":27488,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:14:53 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956573752,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:13 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956573752,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:13 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956575849,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:15 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956575849,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:15 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956577773,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:17 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956577774,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:17 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956579681,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:19 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956579681,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:19 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956582697,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:22 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956582697,"pid":11792,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:22 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956618140,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:58 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956618141,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:58 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956619778,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:59 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956619779,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:16:59 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956621670,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:01 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956621670,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:01 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956625861,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:05 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956625861,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:05 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956627646,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:07 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956627646,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:07 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956629436,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:09 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956629436,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:09 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956629830,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:09 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956629830,"pid":24652,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:17:09 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956769279,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:29 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956769280,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:29 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956771064,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:31 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956771064,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:31 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956773276,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:33 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956773277,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:33 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956775277,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:35 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956775277,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:35 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956778518,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:38 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956778518,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:38 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956780375,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:40 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956780375,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:40 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956781355,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:41 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956781355,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:41 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956784093,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:44 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956784093,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:44 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956785545,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:45 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956785545,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:45 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956787476,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:47 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956787476,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:47 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667956789922,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:49 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956789922,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:49 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667956793347,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:53 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667956793347,"pid":12360,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:19:53 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667957037647,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:23:57 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957037648,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:23:57 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667957039516,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:23:59 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957039517,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:23:59 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667957041490,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:24:01 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957041490,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:24:01 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667957043796,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:24:03 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957043797,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:24:03 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667957069635,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:24:29 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957069635,"pid":20024,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:24:29 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667957301476,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:21 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957301476,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:21 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1667957303259,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:23 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957303259,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:23 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667957305006,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:25 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957305006,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:25 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1667957311082,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:31 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1667957311082,"pid":18528,"hostname":"LAPTOP-LNG7Q586","msg":"Tue Nov 08 2022 22:28:31 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":40,"time":1668264937976,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:55:37 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":50,"time":1668264959285,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:55:59 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1668264959285,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:55:59 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1668264960895,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:56:00 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1668264960896,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:56:00 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1668264962597,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:56:02 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1668264962597,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:56:02 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1668264964620,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:56:04 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1668264964621,"pid":22056,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 12 2022 11:56:04 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":40,"time":1668866038400,"pid":15300,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 10:53:58 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":50,"time":1668867110653,"pid":14784,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:11:50 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668867110653,"pid":14784,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:11:50 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668867200248,"pid":20508,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:13:20 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668867200249,"pid":20508,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:13:20 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668867268349,"pid":20508,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:14:28 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668867268349,"pid":20508,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:14:28 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668867368794,"pid":20508,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:16:08 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668867368794,"pid":20508,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:16:08 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668867386584,"pid":23496,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:16:26 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668867386584,"pid":23496,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 11:16:26 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668872180129,"pid":28548,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 12:36:20 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668872180132,"pid":28548,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 12:36:20 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668872668346,"pid":20556,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 12:44:28 GMT-0300 (hora estándar de Argentina) POST / TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1668872668347,"pid":20556,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 12:44:28 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668872757172,"pid":20600,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 12:45:57 GMT-0300 (hora estándar de Argentina) POST / ReferenceError: conso is not defined"}
+{"level":40,"time":1668872757173,"pid":20600,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 12:45:57 GMT-0300 (hora estándar de Argentina) POST /api/products"}
+{"level":50,"time":1668907623801,"pid":2460,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:27:03 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1668907623802,"pid":2460,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:27:03 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1668908152443,"pid":16896,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:35:52 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1668908152444,"pid":16896,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:35:52 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1668908225020,"pid":16896,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:37:05 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1668908225021,"pid":16896,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:37:05 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1668908277704,"pid":16896,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:37:57 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1668908277705,"pid":16896,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:37:57 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1668908329491,"pid":25108,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:38:49 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1668908329492,"pid":25108,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:38:49 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1668908359863,"pid":25108,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:39:19 GMT-0300 (hora estándar de Argentina) GET /products TypeError: Cannot read properties of undefined (reading 'cart')"}
+{"level":40,"time":1668908359863,"pid":25108,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:39:19 GMT-0300 (hora estándar de Argentina) GET /api/carts/products"}
+{"level":50,"time":1668909246074,"pid":20948,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:54:06 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1668909246075,"pid":20948,"hostname":"LAPTOP-LNG7Q586","msg":"Sat Nov 19 2022 22:54:06 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":40,"time":1669381154532,"pid":14740,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 09:59:14 GMT-0300 (hora estándar de Argentina) GET /favicon.ico"}
+{"level":50,"time":1669384314429,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:51:54 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384314430,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:51:54 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1669384317290,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:51:57 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384317290,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:51:57 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1669384319396,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:51:59 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384319396,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:51:59 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1669384322338,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:02 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384322338,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:02 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1669384323340,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:03 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384323341,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:03 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1669384325593,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:05 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384325593,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:05 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
+{"level":50,"time":1669384329397,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:09 GMT-0300 (hora estándar de Argentina) PUT /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384329397,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:09 GMT-0300 (hora estándar de Argentina) PUT /api/carts/products"}
+{"level":50,"time":1669384331286,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:11 GMT-0300 (hora estándar de Argentina) DELETE /products Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":40,"time":1669384331286,"pid":1600,"hostname":"LAPTOP-LNG7Q586","msg":"Fri Nov 25 2022 10:52:11 GMT-0300 (hora estándar de Argentina) DELETE /api/carts/products"}
