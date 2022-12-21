@@ -16,6 +16,19 @@ loginForm.addEventListener('submit', e => {
     if (res.status == 200) {
       window.location.href = '/'
     }
+    return res
+  })
+  .then(res => res.json())
+  .then(json => {
+    if (json.status == 'error') {
+      Swal.fire({
+        icon: 'error',
+        text: json.message,
+        toast: true,
+        position: "top-right",
+        timer: 2000
+      })
+    }
   })
   .catch(error => console.log(error))
 })

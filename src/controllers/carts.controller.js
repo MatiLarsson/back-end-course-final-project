@@ -209,7 +209,7 @@ const confirmOrder = async(req, res, next) => {
       `,
       attachedImages
     )
-    res.send({status: 'success', message: `Order confirmed`, })
+    res.send({status: 'success', message: `Order confirmed. We have sent you order summary by email. Have a nice day!`, })
   } catch (error) {
     req.apiError = error
     next()

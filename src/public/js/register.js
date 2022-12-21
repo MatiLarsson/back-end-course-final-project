@@ -58,6 +58,15 @@ registerForm.addEventListener('submit', e => {
       })
       window.setTimeout(() => window.location.href = '/', 2000)
     }
+    if (json.status == 'error') {
+      Swal.fire({
+        icon: 'error',
+        text: json.message,
+        toast: true,
+        position: "top-right",
+        timer: 2000
+      })
+    }
   })
   .catch(error => console.log(error))
 })
