@@ -116,7 +116,7 @@ confirmOrderButton.addEventListener('click', () => {
       text: json.message,
       toast: true,
       position: "top-right",
-      timer: 2000
+      timer: 3000
     })
   })
 })
