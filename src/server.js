@@ -20,7 +20,6 @@ import typeDefs from './graphql/typeDefs.js'
 import resolvers from './graphql/resolvers.js'
 
 const app = express()
-
 const PORT = config.app.PORT
 const server = app.listen(PORT, () => {
   console.log(`Server listening on PORT ${PORT}`)
